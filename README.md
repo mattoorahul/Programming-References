@@ -71,6 +71,9 @@ http://highscalability.com/ <br>
 https://www.uber.com/en-IN/blog/new-delhi/engineering/ <br>
 https://netflixtechblog.com/tagged/design-systems
 	
-	
+## Solid Design Principles
+https://www.baeldung.com/solid-principles <br>
+https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design	 <br>
+https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/	
 	
 	
