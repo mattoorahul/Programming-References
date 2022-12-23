@@ -1,6 +1,6 @@
 # Java Reference Materials
 
-1. java 8 features     
+# 1. java 8 features     
 
 - Interface static and default methods
 - method references
@@ -10,13 +10,12 @@
 a) https://www.baeldung.com/java-8-new-features  
 b) https://docs.oracle.com/javase/8/docs/technotes/guides/language/enhancements.html
 
-2. design patterns 
+# 2. design patterns 
 
 a) https://www.baeldung.com/design-patterns-series
 b) https://www.tutorialspoint.com/design_pattern/index.htm
 c) https://howtodoinjava.com/gang-of-four-java-design-patterns/
   
-{
 # Creational, Structural, Behavioral Patterns
  
 ## Creational Design patterns 
@@ -33,7 +32,7 @@ c) https://howtodoinjava.com/gang-of-four-java-design-patterns/
 
 4. Prototype design pattern 
 
-##Structural Design patterns 
+## Structural Design patterns 
 1. Decorator : dynamic method dispatch
 	Beverage, Espresso, Caramel
 
@@ -45,13 +44,12 @@ c) https://howtodoinjava.com/gang-of-four-java-design-patterns/
 
 5. Facade: routing
 
-##Behavioral Patterns
+## Behavioral Patterns
 
 
 1. null object
 
 2. iterator
 
-}
 
 
