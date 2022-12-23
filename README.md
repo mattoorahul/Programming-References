@@ -55,4 +55,11 @@ f) https://sourcemaking.com/design_patterns
 2. iterator
 
 
-
+## Data Structures
+https://leetcode.com/# <br>
+https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=lbp <br>
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp <br>
+https://www.geeksforgeeks.org/
+	
+	
+	
