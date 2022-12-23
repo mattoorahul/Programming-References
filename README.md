@@ -17,6 +17,7 @@ b) https://www.tutorialspoint.com/design_pattern/index.htm
 c) https://howtodoinjava.com/gang-of-four-java-design-patterns/
 d) https://github.com/iluwatar/java-design-patterns
 e) https://java-design-patterns.com/patterns/	
+f) https://sourcemaking.com/design_patterns	
 
 ## Creational, Structural, Behavioral Patterns
  
