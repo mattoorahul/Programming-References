@@ -17,9 +17,9 @@ b) https://www.tutorialspoint.com/design_pattern/index.htm
 c) https://howtodoinjava.com/gang-of-four-java-design-patterns/
   
 {
-#Creational, Structural, Behavioral Patterns
+# Creational, Structural, Behavioral Patterns
  
-##Creational Design patterns 
+## Creational Design patterns 
 1. Singleton : only one object of class is created. 
 	opening database connection
 	logging class
