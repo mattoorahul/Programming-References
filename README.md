@@ -60,6 +60,17 @@ https://leetcode.com/# <br>
 https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=lbp <br>
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp <br>
 https://www.geeksforgeeks.org/
+
+## System Design
+https://dev-shivansh95.medium.com/low-level-design-for-twitter-d254847880cb <br>
+https://www.geeksforgeeks.org/design-twitter-a-system-design-interview-question/ <br>
+https://www.linkedin.com/embed/feed/update/urn:li:share:6948518136534949888 <br>
+https://www.geeksforgeeks.org/system-design-tutorial/?ref=ghm <br>
+https://www.geeksforgeeks.org/software-design-patterns/?ref=ghm <br>
+http://highscalability.com/ <br>
+https://www.uber.com/en-IN/blog/new-delhi/engineering/ <br>
+https://netflixtechblog.com/tagged/design-systems
+	
 	
 	
 	
