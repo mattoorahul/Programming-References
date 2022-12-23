@@ -101,3 +101,32 @@ https://rentry.co/SCEVnGtrztyqhgabvJ6z <br>
 
 2. Go Java Full Stack with Spring Boot and React <br>
 https://www.udemy.com/course/full-stack-application-with-spring-boot-and-react/?src=sac&kw=go+java+ful	<br>
+	
+## Coding ninjas <br>
+https://rentry.co/gSDwvqxw2CjDjUeQD42qKucUUrxkzR <br>
+	
+## Coding blocks <br>
+https://rentry.co/AjQUsf27QuSvdY3g <br>
+
+## GeeksforGeeks <br>
+https://pastebin.com/4Cwerufx
+
+## All courses <br>
+https://archive.thehated8.workers.dev/0:/ <br>
+pass: @TheHatedOne <br>
+
+## React - The Complete Guide (incl Hooks, React Router, Redux) 1080p Updated 5-2021 <br>
+https://rentry.co/ZgaKDB65JkPFTcT26f8Dd7TV3b9QqF <br>
+
+## Baeldung - Learn Spring Security OAuth The Master Class <br>
+https://mega.nz/folder/sBEmFbrC#apN3KRnj8OPK5LFSCZKO6Q <br>
+
+## Baeldung - Learn Spring: The Master Class <br>
+https://drive.tutflix.org/#ZGVjcnlwdC50dXRmbGl4LmNvbS9kZWNyeXB0LnBocDtnZGVmYy50dXRuZ 
+XRmbGl4LndvcmtlcnMuZGV2O2RlY3J5cHRzZXJ2ZXIudHV0ZmxpeC5vcmcvZGVjcnlwdC5waHA7Zz
+pFeC1Db21tdW5pY2FkMC9mYjU4OGUyY2FjYTQ2YWJhMjA4MTZiMmI4N2RlOTliNzxkZWNyeXB0.t
+Q+2loyRPWXgYOuChYvm8jD9/dPa5LggIduLqXM356cXvPDzp9eHupxIuKEwv/l0/dvyhMbPFZQ6+Mz
+B0A== <br>
+
+## Gaurav sen <br>
+https://rentry.co/Cvx6Gp8LwGDHkctnPcjY	<br>
