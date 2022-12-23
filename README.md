@@ -8,7 +8,11 @@
 - Stream API, lambda expressions, functional interfaces
 
 a) https://www.baeldung.com/java-8-new-features  <br>
-b) https://docs.oracle.com/javase/8/docs/technotes/guides/language/enhancements.html
+b) https://docs.oracle.com/javase/8/docs/technotes/guides/language/enhancements.html <br>
+
+https://github.com/alexandregama/java8-guides-tutorials <br>
+https://github.com/Nitin96Bisht/Java-8-Examples <br>
+https://github.com/RameshMF/java-8-tutorial <br>
 
 # 2. design patterns 
 
