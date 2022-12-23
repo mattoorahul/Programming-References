@@ -1,4 +1,5 @@
 # Java Reference Materials
+Documenting my journey of courses and references in becoming a better😂 java developer
 
 # 1. java 8 features     
 
@@ -21,7 +22,9 @@ b) https://www.tutorialspoint.com/design_pattern/index.htm <br>
 c) https://howtodoinjava.com/gang-of-four-java-design-patterns/ <br>
 d) https://github.com/iluwatar/java-design-patterns <br>
 e) https://java-design-patterns.com/patterns/	 <br>
-f) https://sourcemaking.com/design_patterns	
+f) https://sourcemaking.com/design_patterns	<br>
+	
+# 3. Unit Tests & Integration Tests	
 
 ## Creational, Structural, Behavioral Patterns
  
