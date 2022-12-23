@@ -58,6 +58,10 @@ f) https://sourcemaking.com/design_patterns
 
 2. iterator
 
+## Java Courses 
+1. Socket Programming <br>
+2. JDBC Servlets and JSP - Java Web Development Fundamentals  <br>
+https://www.udemy.com/course/jdbcservletsandjsp/ <br>
 
 ## Data Structures
 https://leetcode.com/# <br>
