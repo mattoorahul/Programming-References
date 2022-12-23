@@ -7,7 +7,7 @@
 - Optional<T>
 - Stream API, lambda expressions, functional interfaces
 
-a) https://www.baeldung.com/java-8-new-features  
+a) https://www.baeldung.com/java-8-new-features  <br>
 b) https://docs.oracle.com/javase/8/docs/technotes/guides/language/enhancements.html
 
 # 2. design patterns 
