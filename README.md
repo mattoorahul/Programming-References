@@ -9,6 +9,6 @@ https://docs.oracle.com/javase/8/docs/technotes/guides/language/enhancements.htm
 2. design patterns 
 
 https://www.baeldung.com/design-patterns-series   
-https://www.tutorialspoint.com/design_pattern/index.htm 
+https://www.tutorialspoint.com/design_pattern/index.htm
 https://howtodoinjava.com/gang-of-four-java-design-patterns/
 
