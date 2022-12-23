@@ -122,11 +122,7 @@ https://rentry.co/ZgaKDB65JkPFTcT26f8Dd7TV3b9QqF <br>
 https://mega.nz/folder/sBEmFbrC#apN3KRnj8OPK5LFSCZKO6Q <br>
 
 ## Baeldung - Learn Spring: The Master Class <br>
-https://drive.tutflix.org/#ZGVjcnlwdC50dXRmbGl4LmNvbS9kZWNyeXB0LnBocDtnZGVmYy50dXRuZ 
-XRmbGl4LndvcmtlcnMuZGV2O2RlY3J5cHRzZXJ2ZXIudHV0ZmxpeC5vcmcvZGVjcnlwdC5waHA7Zz
-pFeC1Db21tdW5pY2FkMC9mYjU4OGUyY2FjYTQ2YWJhMjA4MTZiMmI4N2RlOTliNzxkZWNyeXB0.t
-Q+2loyRPWXgYOuChYvm8jD9/dPa5LggIduLqXM356cXvPDzp9eHupxIuKEwv/l0/dvyhMbPFZQ6+Mz
-B0A== <br>
+https://drive.tutflix.org/#ZGVjcnlwdC50dXRmbGl4LmNvbS9kZWNyeXB0LnBocDtnZGVmYy50dXRuZXRmbGl4LndvcmtlcnMuZGV2O2RlY3J5cHRzZXJ2ZXIudHV0ZmxpeC5vcmcvZGVjcnlwdC5waHA7ZzpFeC1Db21tdW5pY2FkMC9mYjU4OGUyY2FjYTQ2YWJhMjA4MTZiMmI4N2RlOTliNzxkZWNyeXB0.tQ+2loyRPWXgYOuChYvm8jD9/dPa5LggIduLqXM356cXvPDzp9eHupxIuKEwv/l0/dvyhMbPFZQ6+MzB0A== <br>
 
 ## Gaurav sen <br>
 https://rentry.co/Cvx6Gp8LwGDHkctnPcjY	<br>
