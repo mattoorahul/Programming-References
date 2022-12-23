@@ -74,10 +74,10 @@ https://netflixtechblog.com/tagged/design-systems
 ## Solid Design Principles
 https://www.baeldung.com/solid-principles <br>
 https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design	 <br>
-https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/	
+https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/	<br>
 	
 	
-
+### FrontEnd
 	
 1. MERN Stack Front To Back: Full Stack React, Redux & Node.js 
 https://www.udemy.com/course/mern-stack-front-to-back/
@@ -93,21 +93,12 @@ https://github.com/pdhaila97/url-shortener-ui
 https://github.com/pdhaila97/stoic-notes-ui
 https://github.com/pdhaila97/ready-steady-bang
 
+### Backend - SpringBoot	
 
-
-
-
-
-
-
-
-1.
-Spring & Hibernate for Beginners (includes Spring Boot)
-https://www.udemy.com/course/spring-hibernate-tutorial/
-
-https://drive.tutflix.org/#ZGVjcnlwdC50dXRmbGl4LmNvbS9kZWNyeXB0LnBocDtnZGVmYy50dXRuZXRmbGl4LndvcmtlcnMuZGV2O2RlY3J5cHRzZXJ2ZXIudHV0ZmxpeC5vcmcvZGVjcnlwdC5waHA7ZzpFeC1Db21tdW5pY2FkMC9mYjU4OGUyY2FjYTQ2YWJhMjA4MTZiMmI4N2RlOTliNzxkZWNyeXB0.KUNpjT4SJDCarAWd5PSG4rugwtSsl4Ix99X8ZW2lNqOIMPufj4Aa0uvSOqu0mIKdMTVFUqGTQLCgdd9DpA==
+1. Spring & Hibernate for Beginners (includes Spring Boot) <br>
+https://www.udemy.com/course/spring-hibernate-tutorial/ <br>
+https://drive.tutflix.org/#ZGVjcnlwdC50dXRmbGl4LmNvbS9kZWNyeXB0LnBocDtnZGVmYy50dXRuZXRmbGl4LndvcmtlcnMuZGV2O2RlY3J5cHRzZXJ2ZXIudHV0ZmxpeC5vcmcvZGVjcnlwdC5waHA7ZzpFeC1Db21tdW5pY2FkMC9mYjU4OGUyY2FjYTQ2YWJhMjA4MTZiMmI4N2RlOTliNzxkZWNyeXB0.KUNpjT4SJDCarAWd5PSG4rugwtSsl4Ix99X8ZW2lNqOIMPufj4Aa0uvSOqu0mIKdMTVFUqGTQLCgdd9DpA== <br>
 https://rentry.co/SCEVnGtrztyqhgabvJ6z
 
-2.
-Go Java Full Stack with Spring Boot and React
+2. Go Java Full Stack with Spring Boot and React <br>
 https://www.udemy.com/course/full-stack-application-with-spring-boot-and-react/?src=sac&kw=go+java+ful	
