@@ -79,26 +79,25 @@ https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/	<
 	
 ### FrontEnd
 	
-1. MERN Stack Front To Back: Full Stack React, Redux & Node.js 
-https://www.udemy.com/course/mern-stack-front-to-back/
+1. MERN Stack Front To Back: Full Stack React, Redux & Node.js <br>
+https://www.udemy.com/course/mern-stack-front-to-back/ <br>
 
-2. React - The Complete Guide (incl Hooks, React Router, Redux)
-https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+2. React - The Complete Guide (incl Hooks, React Router, Redux). <br>
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/  <br>
 
-3. JavaScript Algorithms and Data Structures
-https://www.freecodecamp.org/certification/fccf590d893-31f1-461b-b1ab-4ca040b544ce/javascript-algorithms-and-data-structures
+3. JavaScript Algorithms and Data Structures <br>
+https://www.freecodecamp.org/certification/fccf590d893-31f1-461b-b1ab-4ca040b544ce/javascript-algorithms-and-data-structures <br>
 
+https://github.com/pdhaila97/url-shortener-ui <br>
+https://github.com/pdhaila97/stoic-notes-ui <br>
+https://github.com/pdhaila97/ready-steady-bang <br>
 
-https://github.com/pdhaila97/url-shortener-ui
-https://github.com/pdhaila97/stoic-notes-ui
-https://github.com/pdhaila97/ready-steady-bang
-
-### Backend - SpringBoot	
+### Backend - SpringBoot	<br>
 
 1. Spring & Hibernate for Beginners (includes Spring Boot) <br>
 https://www.udemy.com/course/spring-hibernate-tutorial/ <br>
 https://drive.tutflix.org/#ZGVjcnlwdC50dXRmbGl4LmNvbS9kZWNyeXB0LnBocDtnZGVmYy50dXRuZXRmbGl4LndvcmtlcnMuZGV2O2RlY3J5cHRzZXJ2ZXIudHV0ZmxpeC5vcmcvZGVjcnlwdC5waHA7ZzpFeC1Db21tdW5pY2FkMC9mYjU4OGUyY2FjYTQ2YWJhMjA4MTZiMmI4N2RlOTliNzxkZWNyeXB0.KUNpjT4SJDCarAWd5PSG4rugwtSsl4Ix99X8ZW2lNqOIMPufj4Aa0uvSOqu0mIKdMTVFUqGTQLCgdd9DpA== <br>
-https://rentry.co/SCEVnGtrztyqhgabvJ6z
+https://rentry.co/SCEVnGtrztyqhgabvJ6z <br>
 
 2. Go Java Full Stack with Spring Boot and React <br>
-https://www.udemy.com/course/full-stack-application-with-spring-boot-and-react/?src=sac&kw=go+java+ful	
+https://www.udemy.com/course/full-stack-application-with-spring-boot-and-react/?src=sac&kw=go+java+ful	<br>
