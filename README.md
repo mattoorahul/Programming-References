@@ -77,7 +77,7 @@ https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-f
 https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/	<br>
 	
 	
-### FrontEnd
+## FrontEnd
 	
 1. MERN Stack Front To Back: Full Stack React, Redux & Node.js <br>
 https://www.udemy.com/course/mern-stack-front-to-back/ <br>
@@ -92,7 +92,7 @@ https://github.com/pdhaila97/url-shortener-ui <br>
 https://github.com/pdhaila97/stoic-notes-ui <br>
 https://github.com/pdhaila97/ready-steady-bang <br>
 
-### Backend - SpringBoot	<br>
+## Backend - SpringBoot	<br>
 
 1. Spring & Hibernate for Beginners (includes Spring Boot) <br>
 https://www.udemy.com/course/spring-hibernate-tutorial/ <br>
