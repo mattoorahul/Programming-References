@@ -60,6 +60,8 @@ f) https://sourcemaking.com/design_patterns
 
 ## Java Courses 
 1. Socket Programming <br>
+Java Socket Programming: Build a Chat Application	
+https://www.udemy.com/course/java-socket-programming-build-a-chat-application/ <br>	
 2. JDBC Servlets and JSP - Java Web Development Fundamentals  <br>
 https://www.udemy.com/course/jdbcservletsandjsp/ <br>
 
