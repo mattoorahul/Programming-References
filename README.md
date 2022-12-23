@@ -15,7 +15,8 @@ b) https://docs.oracle.com/javase/8/docs/technotes/guides/language/enhancements.
 a) https://www.baeldung.com/design-patterns-series
 b) https://www.tutorialspoint.com/design_pattern/index.htm
 c) https://howtodoinjava.com/gang-of-four-java-design-patterns/
-  
+d) https://github.com/iluwatar/java-design-patterns
+
 ## Creational, Structural, Behavioral Patterns
  
 ## Creational Design patterns 
