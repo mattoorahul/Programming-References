@@ -78,6 +78,8 @@ https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon
 https://www.geeksforgeeks.org/
 
 ## System Design
+https://drive.google.com/drive/folders/1bszlW8dG7sluaimj0mmirUD0rHQa_h48?usp=share_link <br>
+	<br>
 https://dev-shivansh95.medium.com/low-level-design-for-twitter-d254847880cb <br>
 https://www.geeksforgeeks.org/design-twitter-a-system-design-interview-question/ <br>
 https://www.linkedin.com/embed/feed/update/urn:li:share:6948518136534949888 <br>
