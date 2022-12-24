@@ -17,10 +17,10 @@ https://github.com/RameshMF/java-8-tutorial <br>
 
 # 2. design patterns 
 
-a) https://www.baeldung.com/design-patterns-series <br>
+a) https://github.com/iluwatar/java-design-patterns <br>
 b) https://www.tutorialspoint.com/design_pattern/index.htm <br>
 c) https://howtodoinjava.com/gang-of-four-java-design-patterns/ <br>
-d) https://github.com/iluwatar/java-design-patterns <br>
+d) https://www.baeldung.com/design-patterns-series <br>
 e) https://java-design-patterns.com/patterns/	 <br>
 f) https://sourcemaking.com/design_patterns	<br>
 	
