@@ -74,8 +74,6 @@ https://mega.nz/folder/f4BxmAzR#TEjXsNhsznDEkX2Mo2gGqQ
 JSP, Servlets and JDBC for Beginners: Build a Database App <br>
 https://rentry.org/sS8YmmuNRJvHZGXtAcH3Lw	<br>
 
-JDBC Servlets and JSP - Java Web Development Fundamentals	<br>
-https://mega.nz/folder/f4BxmAzR#TEjXsNhsznDEkX2Mo2gGqQ	<br>
 	
 ## Data Structures
 https://leetcode.com/# <br>
