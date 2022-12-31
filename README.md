@@ -71,6 +71,11 @@ https://www.udemy.com/course/jdbcservletsandjsp/ <br>
 https://mega.nz/folder/f4BxmAzR#TEjXsNhsznDEkX2Mo2gGqQ	
 	
 3. Some More Courses for Spring Boot from Udemy which I dont remember now and didnot mention here.
+JSP, Servlets and JDBC for Beginners: Build a Database App
+https://rentry.org/sS8YmmuNRJvHZGXtAcH3Lw	
+
+JDBC Servlets and JSP - Java Web Development Fundamentals	
+https://mega.nz/folder/f4BxmAzR#TEjXsNhsznDEkX2Mo2gGqQ	
 	
 ## Data Structures
 https://leetcode.com/# <br>
