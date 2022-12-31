@@ -68,6 +68,7 @@ https://www.udemy.com/course/java-socket-programming-build-a-chat-application/ <
 
 2. JDBC Servlets and JSP - Java Web Development Fundamentals  <br>
 https://www.udemy.com/course/jdbcservletsandjsp/ <br>
+https://mega.nz/folder/f4BxmAzR#TEjXsNhsznDEkX2Mo2gGqQ	
 	
 3. Some More Courses for Spring Boot from Udemy which I dont remember now and didnot mention here.
 	
