@@ -70,7 +70,7 @@ https://www.udemy.com/course/java-socket-programming-build-a-chat-application/ <
 https://www.udemy.com/course/jdbcservletsandjsp/ <br>
 https://mega.nz/folder/f4BxmAzR#TEjXsNhsznDEkX2Mo2gGqQ	
 	
-3. Some More Courses for Spring Boot from Udemy which I dont remember now and didnot mention here.
+3. Some More Courses for Spring Boot from Udemy which I dont remember now and didnot mention here. <br>
 JSP, Servlets and JDBC for Beginners: Build a Database App <br>
 https://rentry.org/sS8YmmuNRJvHZGXtAcH3Lw	<br>
 
