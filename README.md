@@ -75,7 +75,10 @@ JSP, Servlets and JDBC for Beginners: Build a Database App <br>
 https://rentry.org/sS8YmmuNRJvHZGXtAcH3Lw	<br>
 
 Master Microservices with Spring Boot and Spring Cloud	<br>
-https://rentry.co/uSePsUMBYaUJGBh4LZQV	
+https://rentry.co/uSePsUMBYaUJGBh4LZQV	<br>
+
+Spring Boot Annotations Cheat Sheet <br>
+https://www.jrebel.com/sites/rebel/files/pdfs/cheatsheet-jrebel-spring-annotations.pdf 
 	
 ## Data Structures
 https://leetcode.com/# <br>
