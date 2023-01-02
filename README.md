@@ -82,6 +82,10 @@ https://www.jrebel.com/sites/rebel/files/pdfs/cheatsheet-jrebel-spring-annotatio
 		
 https://chenweixiang.github.io/docs/Spring_Annotations_cheat_sheet.pdf	
 	
+https://github.com/Buzzardo/spring-docs/blob/master/annotation-cheat-sheet.adoc	
+	
+https://schegge.de/wp-content/uploads/2021/06/sbv-cheatsheet.pdf	
+	
 ## Data Structures
 https://leetcode.com/# <br>
 https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=lbp <br>
