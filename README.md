@@ -79,6 +79,8 @@ https://rentry.co/uSePsUMBYaUJGBh4LZQV	<br>
 
 Spring Boot Annotations Cheat Sheet <br>
 https://www.jrebel.com/sites/rebel/files/pdfs/cheatsheet-jrebel-spring-annotations.pdf 
+		
+https://chenweixiang.github.io/docs/Spring_Annotations_cheat_sheet.pdf	
 	
 ## Data Structures
 https://leetcode.com/# <br>
