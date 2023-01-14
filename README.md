@@ -138,6 +138,8 @@ https://mega.nz/folder/XPoFSYbD#zjU1JQUZoMJ0SKl5EnrBNg
 
 Most helpful springboot tutorials <br>
 https://www.tutorialspoint.com/spring_boot/index.htm <br>
+https://www.baeldung.com/spring-boot <br>
+https://www.javadevjournal.com/spring-boot/ <br>
 	
 ## Coding ninjas <br>
 https://rentry.co/gSDwvqxw2CjDjUeQD42qKucUUrxkzR <br>
