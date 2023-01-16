@@ -140,6 +140,8 @@ Most helpful springboot tutorials <br>
 https://www.tutorialspoint.com/spring_boot/index.htm <br>
 https://www.baeldung.com/spring-boot <br>
 https://www.javadevjournal.com/spring-boot/ <br>
+https://www.freecodecamp.org/news/spring-boot-tutorial-build-fast-modern-java-app/ <br>
+https://www.javaguides.net/p/spring-boot-tutorial.html
 	
 ## Coding ninjas <br>
 https://rentry.co/gSDwvqxw2CjDjUeQD42qKucUUrxkzR <br>
