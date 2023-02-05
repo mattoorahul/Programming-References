@@ -115,6 +115,7 @@ https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/	<
 https://developer.mozilla.org/en-US/docs/Web <br>
 https://www.w3schools.com/js/ <br>
 https://javascript.info/ <br>	
+https://www.tutorialspoint.com/javascript/index.htm <br>	
 
 1. MERN Stack Front To Back: Full Stack React, Redux & Node.js <br>
 https://www.udemy.com/course/mern-stack-front-to-back/ <br>
