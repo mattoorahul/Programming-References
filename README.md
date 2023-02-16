@@ -20,6 +20,8 @@ Web Apps/ Mobile Apps:
 
 I have personally worked with these tools and programming is actually a very serious business because no actually gets paid higher than this..
 
+I wish I had started more earlier because exploration has no limits..
+
 # 1. Data Structures
 1. https://leetcode.com/# <br>
 2. https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=lbp <br>
