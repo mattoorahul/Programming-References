@@ -18,6 +18,7 @@ Web Apps/ Mobile Apps:
 5. Version Control - TortoiseSVN, Git ..
 6. Cloud - AWS (mostly used across industry), GCP
 7. IDE - Eclipse, VS, IntelliJ, SQL Server Studio, Workbench
+8. Build Tools - Maven, npm .. some proprietery stuff..
 
 I wish I had started more earlier because exploration has no limits..
 
