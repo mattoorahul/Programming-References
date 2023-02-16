@@ -17,6 +17,7 @@ Web Apps/ Mobile Apps:
 4. DB - SQL Server, MySQl, Oracle DB, Redshift, DynamoDB, MongoDb ..
 5. Version Control - TortoiseSVN, Git ..
 6. Cloud - AWS (mostly used across industry), GCP
+7. IDE - Eclipse, VS, IntelliJ, SQL Server Studio, Workbench
 
 I have personally worked with these tools and programming is actually a very serious business because noone actually gets paid higher than this..
 
