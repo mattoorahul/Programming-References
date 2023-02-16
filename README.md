@@ -1,6 +1,13 @@
 # Java Reference Materials
 Documenting my journey of courses and references in becoming a better😂 java developer
 
+## Books I use:
+1. Java The Complete Reference, 8th Edition Paperback – 1   - its old but reading it is delightful.. newer editions dont actually bring anything new..
+https://www.amazon.in/gp/product/1259002462/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+
+2. JAVASCRIPT THE DEFINITIVE GUIDE 7/ED - Unravels the mysteries of the web.. and this guy is not dead yet..
+https://www.amazon.in/gp/product/9352139968/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
 # 1. Data Structures
 1. https://leetcode.com/# <br>
 2. https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=lbp <br>
@@ -9,7 +16,6 @@ Documenting my journey of courses and references in becoming a better😂 java d
 
 # 2. System Design
 1. https://drive.google.com/drive/folders/1bszlW8dG7sluaimj0mmirUD0rHQa_h48?usp=share_link <br>
-	<br>
 2. https://dev-shivansh95.medium.com/low-level-design-for-twitter-d254847880cb <br>
 3. https://www.geeksforgeeks.org/design-twitter-a-system-design-interview-question/ <br>
 4. https://www.linkedin.com/embed/feed/update/urn:li:share:6948518136534949888 <br>
