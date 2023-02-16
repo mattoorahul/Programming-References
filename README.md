@@ -8,6 +8,18 @@ https://www.amazon.in/gp/product/1259002462/ref=ppx_yo_dt_b_asin_title_o02_s00?i
 2. JAVASCRIPT THE DEFINITIVE GUIDE 7/ED - Unravels the mysteries of the web.. and this guy is not dead yet..
 https://www.amazon.in/gp/product/9352139968/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
+## Tools used across industry..
+
+Web Apps/ Mobile Apps: 
+1. FrontEnd - HTML, CSS, JavaScript, JQuery, BootStrap, React, npm tools..
+2. Backend - Java, JSP, JBOSS, SpringBoot ..
+3. ORM - Hibernate, EJBs ...
+4. DB - SQL Server, MySQl, Oracle DB, Redshift, DynamoDB, MongoDb ..
+5. Version Control - TortoiseSVN, Git ..
+6. Cloud - AWS (mostly used across industry), GCP
+
+I have personally worked with these tools and programming is actually a very serious business because no actually gets paid higher than this..
+
 # 1. Data Structures
 1. https://leetcode.com/# <br>
 2. https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=lbp <br>
