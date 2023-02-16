@@ -18,7 +18,7 @@ Web Apps/ Mobile Apps:
 5. Version Control - TortoiseSVN, Git ..
 6. Cloud - AWS (mostly used across industry), GCP
 
-I have personally worked with these tools and programming is actually a very serious business because no actually gets paid higher than this..
+I have personally worked with these tools and programming is actually a very serious business because noone actually gets paid higher than this..
 
 I wish I had started more earlier because exploration has no limits..
 
