@@ -1,4 +1,4 @@
-# Java Reference Materials
+# Coding Reference Materials
 Documenting my journey of courses and references in becoming a better😂 java developer
 
 ## Books I use:
