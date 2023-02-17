@@ -12,7 +12,7 @@ https://www.amazon.in/gp/product/9352139968/ref=ppx_yo_dt_b_asin_title_o00_s00?i
 
 Web Apps/ Mobile Apps: 
 1. FrontEnd - HTML, CSS, JavaScript, JQuery, BootStrap, React, npm tools..
-2. Backend - Java, JSP, JBOSS, SpringBoot ..
+2. Backend - Java, JSP, JBOSS, SpringBoot .. , node.js ,..
 3. ORM - Hibernate, EJBs ...
 4. DB - SQL Server, MySQl, Oracle DB, Redshift, DynamoDB, MongoDb ..
 5. Version Control - TortoiseSVN, Git ..
