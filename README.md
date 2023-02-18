@@ -2,7 +2,8 @@
 Documenting my journey of courses and references in becoming a better😂 java developer
 
 ## Books I use:
-1. Java The Complete Reference, 8th Edition Paperback – 1   - its old but reading it is delightful.. newer editions dont actually bring anything new..
+1. Java The Complete Reference, 8th Edition Paperback – 1   - its old but reading it is delightful.. newer editions dont actually bring anything new.. 
+my belief in chaos ..
 https://www.amazon.in/gp/product/1259002462/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
 
 2. JAVASCRIPT THE DEFINITIVE GUIDE 7/ED - Unravels the mysteries of the web.. and this guy is not dead yet..
