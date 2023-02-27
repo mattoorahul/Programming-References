@@ -29,18 +29,8 @@ I wish I had started more earlier because exploration has no limits..
 3. https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp <br>
 4. https://www.geeksforgeeks.org/
 
-# 2. System Design
-1. https://drive.google.com/drive/folders/1bszlW8dG7sluaimj0mmirUD0rHQa_h48?usp=share_link <br>
-2. https://dev-shivansh95.medium.com/low-level-design-for-twitter-d254847880cb <br>
-3. https://www.geeksforgeeks.org/design-twitter-a-system-design-interview-question/ <br>
-4. https://www.linkedin.com/embed/feed/update/urn:li:share:6948518136534949888 <br>
-5. https://www.geeksforgeeks.org/system-design-tutorial/?ref=ghm <br>
-6. https://www.geeksforgeeks.org/software-design-patterns/?ref=ghm <br>
-7. http://highscalability.com/ <br>
-8. https://www.uber.com/en-IN/blog/new-delhi/engineering/ <br>
-9. https://netflixtechblog.com/tagged/design-systems
 
-# 3. Java 8 Features 
+# 2. Java 8 Features 
 - Interface static and default methods
 - method references
 - Optional<T>
@@ -52,7 +42,7 @@ I wish I had started more earlier because exploration has no limits..
 4. https://github.com/Nitin96Bisht/Java-8-Examples <br>
 5. https://github.com/RameshMF/java-8-tutorial <br>
 
-# 4. Design Patterns 
+# 3. Design Patterns 
 1. https://github.com/iluwatar/java-design-patterns <br>
 2. https://www.tutorialspoint.com/design_pattern/index.htm <br>
 3. https://howtodoinjava.com/gang-of-four-java-design-patterns/ <br>
@@ -95,7 +85,7 @@ I wish I had started more earlier because exploration has no limits..
 	
 # 5. Unit Tests and Integration Tests	
 
-# 6. Java Courses 
+# 4. Java Courses 
 1. Socket Programming <br>
 Java Socket Programming: Build a Chat Application <br>	
 https://www.udemy.com/course/java-socket-programming-build-a-chat-application/ <br>	
@@ -112,7 +102,7 @@ https://rentry.co/uSePsUMBYaUJGBh4LZQV	<br>
 	
 ... Some More Courses for Spring Boot from Udemy which I dont remember now and didnot mention here. <br>	
 	
-# 7. Spring Boot Resources <br>
+# 5. Spring Boot Resources <br>
 Annotations Cheat Sheet	
 1. https://www.jrebel.com/sites/rebel/files/pdfs/cheatsheet-jrebel-spring-annotations.pdf 		
 2. https://chenweixiang.github.io/docs/Spring_Annotations_cheat_sheet.pdf	
@@ -136,7 +126,7 @@ Most helpful springboot tutorials <br>
 4. https://www.freecodecamp.org/news/spring-boot-tutorial-build-fast-modern-java-app/ <br>
 5. https://www.javaguides.net/p/spring-boot-tutorial.html
 			
-# 10. FrontEnd Resources and Courses
+# 6. FrontEnd Resources and Courses
 1. https://developer.mozilla.org/en-US/docs/Web <br>
 2. https://www.w3schools.com/js/ <br>
 3. https://javascript.info/ <br>	
@@ -159,6 +149,17 @@ https://www.freecodecamp.org/certification/fccf590d893-31f1-461b-b1ab-4ca040b544
 1. https://www.baeldung.com/solid-principles <br>
 2. https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design	 <br>
 3. https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/	<br>
+
+# 12. System Design
+1. https://drive.google.com/drive/folders/1bszlW8dG7sluaimj0mmirUD0rHQa_h48?usp=share_link <br>
+2. https://dev-shivansh95.medium.com/low-level-design-for-twitter-d254847880cb <br>
+3. https://www.geeksforgeeks.org/design-twitter-a-system-design-interview-question/ <br>
+4. https://www.linkedin.com/embed/feed/update/urn:li:share:6948518136534949888 <br>
+5. https://www.geeksforgeeks.org/system-design-tutorial/?ref=ghm <br>
+6. https://www.geeksforgeeks.org/software-design-patterns/?ref=ghm <br>
+7. http://highscalability.com/ <br>
+8. https://www.uber.com/en-IN/blog/new-delhi/engineering/ <br>
+9. https://netflixtechblog.com/tagged/design-systems
 
 # All Courses present here..	
 ## 1. Coding Ninjas <br>
