@@ -145,12 +145,7 @@ https://www.freecodecamp.org/certification/fccf590d893-31f1-461b-b1ab-4ca040b544
 2. https://github.com/pdhaila97/stoic-notes-ui <br>
 3. https://github.com/pdhaila97/ready-steady-bang <br>
 
-# 8. Solid Design Principles
-1. https://www.baeldung.com/solid-principles <br>
-2. https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design	 <br>
-3. https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/	<br>
-
-# 9. System Design
+# 8. System Design
 1. https://drive.google.com/drive/folders/1bszlW8dG7sluaimj0mmirUD0rHQa_h48?usp=share_link <br>
 2. https://dev-shivansh95.medium.com/low-level-design-for-twitter-d254847880cb <br>
 3. https://www.geeksforgeeks.org/design-twitter-a-system-design-interview-question/ <br>
@@ -159,7 +154,13 @@ https://www.freecodecamp.org/certification/fccf590d893-31f1-461b-b1ab-4ca040b544
 6. https://www.geeksforgeeks.org/software-design-patterns/?ref=ghm <br>
 7. http://highscalability.com/ <br>
 8. https://www.uber.com/en-IN/blog/new-delhi/engineering/ <br>
-9. https://netflixtechblog.com/tagged/design-systems
+9. https://netflixtechblog.com/tagged/design-systems	
+	
+# 9. Solid Design Principles
+1. https://www.baeldung.com/solid-principles <br>
+2. https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design	 <br>
+3. https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/	<br>
+
 
 # All Courses present here..	
 ## 1. Coding Ninjas <br>
