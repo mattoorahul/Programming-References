@@ -1,7 +1,6 @@
 # Programming Reference Materials
-Documenting my journey of courses and references in becoming a better😂 java developer
 
-## Books I use:
+## Books:
 1. Java The Complete Reference, 8th Edition Paperback – 1   - its old but reading it is delightful.. newer editions dont actually bring anything new..
 https://www.amazon.in/gp/product/1259002462/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
 
@@ -16,11 +15,9 @@ Web Apps/ Mobile Apps:
 3. ORM - Hibernate, EJBs ...
 4. DB - SQL Server, MySQl, Oracle DB, Redshift, DynamoDB, MongoDb ..
 5. Version Control - TortoiseSVN, Git ..
-6. Cloud - AWS (mostly used across industry), GCP
+6. Cloud - AWS, GCP
 7. IDE - Eclipse, VS, IntelliJ, SQL Server Studio, Workbench
 8. Build Tools - Maven, npm .. some proprietery stuff..
-
-I wish I had started more earlier because exploration has no limits..
 
 # 1. Data Structures
 1. https://leetcode.com/# <br>
@@ -98,8 +95,6 @@ https://rentry.org/sS8YmmuNRJvHZGXtAcH3Lw	<br>
 
 4. Master Microservices with Spring Boot and Spring Cloud	<br>
 https://rentry.co/uSePsUMBYaUJGBh4LZQV	<br>
-	
-... Some More Courses for Spring Boot from Udemy which I dont remember now and didnot mention here. <br>	
 	
 # 6. Spring Boot Resources <br>
 Annotations Cheat Sheet	
